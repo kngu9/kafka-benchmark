@@ -2,7 +2,7 @@
 # Kafka Benchmarking
 This is a benchmark that provides a wireframe of testing out different Kafka producers
 
-As of fight now it benchmarks
+As of right now it benchmarks
 * https://github.com/segmentio/kafka-go
 * https://github.com/confluentinc/confluent-kafka-go
 * https://github.com/Shopify/sarama
